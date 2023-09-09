@@ -1,10 +1,10 @@
- # Quizlympic
+# Quizlympic
  
- ## Rules
+## Rules
 
- - Rooms can only be created by registered users.
+- Rooms can only be created by registered users.
 
- - Before creating the room you can choose two modes:
+- Before creating the room you can choose two modes:
   
     - Single room.
     - Multiple room.
