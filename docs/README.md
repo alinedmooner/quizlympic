@@ -13,4 +13,3 @@
 
   - The game time can be 5, 10 or 15 minutes.
   - Initially the tests will be on specific topics and will have subcategories by difficulty.
-  
