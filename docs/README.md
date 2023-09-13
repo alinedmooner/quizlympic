@@ -1,6 +1,6 @@
 # Quizlympic
  
-## Rules
+## Rules (draft)
 
 - Rooms can only be created by registered users.
 
